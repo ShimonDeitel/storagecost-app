@@ -1,0 +1,40 @@
+{
+  "identifier": "6C1A0000-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "6C1A0001",
+      "localizations": [],
+      "name": "Storagecost Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "6C1A0002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Cost-per-GB comparison across providers",
+              "displayName": "Storagecost Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.storagecost.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Storagecost Pro Monthly",
+          "subscriptionGroupID": "6C1A0001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
